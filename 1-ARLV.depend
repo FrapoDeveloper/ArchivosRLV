@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1569426726 source:c:\users\frapodeveloper\desktop\1-arlv\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570639376 source:c:\users\frapodeveloper\desktop\unt\lv ciclo\archivos\1-arlv\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570639854 source:c:\users\frapodeveloper\desktop\lv ciclo\archivos\1-arlv\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570639854 source:c:\users\frapodeveloper\desktop\frapo\lv ciclo\archivos\1-arlv\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
